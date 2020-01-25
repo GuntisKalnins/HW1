@@ -57,15 +57,15 @@ nav {
 
 
 
-
-
-
-
-
-
-@media screen (max-width: 360px) {
-    video {
+@media (max-width: 360px) {
+    #video {
         width: 360px;
+    }
+}
+
+@media screen (max-width: 420px) {
+    iframe {
+        width: 420px;
     }
 }
 
