@@ -59,17 +59,6 @@ nav {
 
 
 
-@media (max-width: 420px) {
-    iframe {
-        width: 420px;
-    }
-}
-
-@media (max-width: 360px) {
-    #video {
-        width: 360px;
-    }
-}
 
 
 footer {
