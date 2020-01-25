@@ -54,14 +54,21 @@ nav {
 .content {
     float: right;
     margin: 10px;
+
 }
 
-h1 , button, footer, .postures, .also{
+h1 , button, .postures, .also{
     margin: 5px;
     padding-left: 5px;
+    border-bottom: solid 1px grey;
 }
 
-p, h2{
+.list li{
+    list-style: upper-latin;
+}
+
+
+p, h2, .list{
     padding-bottom: 15px;
     padding-left: 15px;
 }
@@ -69,7 +76,7 @@ p, h2{
 .img {
     width: 360px;
     padding: 5px;
-    border: solid 1px;
+    border: solid 1px grey;
 }
 
 #video {
@@ -78,8 +85,10 @@ p, h2{
     border: none;
 }
 
-footer {
-    font-size: 12px;
+footer, .links{
+    margin: 5px;
+    padding-left: 5px;
+    font-size: 14px;
 }
 
 
