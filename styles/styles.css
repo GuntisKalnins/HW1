@@ -19,10 +19,7 @@ html {
     font-weight: 700;
     color: white;
     letter-spacing: 2px;
-    display: block;
     padding: 0 25px;
-    line-height: 30px;
-    position: relative;
     transition: all 0.6s;
 }
 
@@ -55,13 +52,9 @@ nav {
     width: 440px;
 }
 
-
-
-
-
-
-
 footer {
     font-size: 12px;
 }
+
+
 
