@@ -1,0 +1,41 @@
+html {
+    font-family:'Open Sans', sans-serif;
+    background-color: bisque;
+}
+
+.menu {
+    background-color: darkslategray;
+    padding: 2em;
+}
+
+.menu-item {
+    color: white;
+    font-weight: 700;
+    transition: all 1s;
+}
+
+.menu-item:hover {
+    color: rgb(206, 54, 54);
+}
+
+header {
+    font-size: 5em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.img {
+    width: 440px;
+}
+
+li {
+    padding: 0.5rem 0.5rem;
+    
+}
+
+footer {
+    font-size: 12px;
+}
+
+button {
+    margin: 10px;
+}
