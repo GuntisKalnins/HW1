@@ -46,7 +46,6 @@ li {
 nav {
     position: relative;
     padding: 10px;
-    z-index: 1;
     background: rgb(80, 68, 68);
     margin: 0 auto;
     width: 100%;    
@@ -64,9 +63,9 @@ nav {
 
 
 
-@media screen (max-width: 440px) {
+@media screen (max-width: 360px) {
     video {
-        width: 440px;
+        width: 360px;
     }
 }
 
