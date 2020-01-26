@@ -63,11 +63,6 @@ h1 , button, .postures, .also{
     border-bottom: solid 1px grey;
 }
 
-.list li{
-    list-style: upper-latin;
-}
-
-
 p, h2, .list{
     padding-bottom: 15px;
     padding-left: 15px;
